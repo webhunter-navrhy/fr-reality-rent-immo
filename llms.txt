@@ -1,0 +1,12 @@
+# RENT'IMMO
+
+> Les biens de l'agence RENT'IMMO.
+
+- Téléphone: +33986685360
+- E-mail: contact@rent-immo.fr
+- Site web: https://www.rent-immo.fr/
+- Adresse: 143 RUE PAUL BELLAMY, 44000 Nantes
+
+## Biens (2)
+- Vente appartement 1 pièce 20.25 m² à Nantes (44) — Centre Ville, 98 100 €: vente-appartement-1-piece-20-25-m2-a-nantes-44-102054409/
+- Vente appartement 3 pièces 48 m² à Nantes (44) — Centre Ville, 254 000 €: vente-appartement-3-pieces-48-m2-a-nantes-44-108783005/
